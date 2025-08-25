@@ -41,7 +41,7 @@ The system recommends movies to users based on **user similarity** and also incl
 ## 📊 Data Exploration — Most Common Movie Genres
 During the preprocessing, genres were analyzed to see which are the most frequent in the dataset.  
 
-![Most Common Genres](images/most_common_genres.png)
+![Most Common Genres](images/Most Common Genres.png)
 
 *(The figure shows the top movie genres such as Drama, Comedy, Action, Thriller, etc.)*
 
@@ -97,10 +97,10 @@ During the preprocessing, genres were analyzed to see which are the most frequen
 - Deploy as a Web Application using Flask or Streamlit.
 
  ---
-
----
 ## 📂 Project Structure
-
+---
+Movie-Recommendation-System/
+│
 ├── README.md
 ├── requirements.txt
 ├── movie_recommendation_system.ipynb
@@ -110,7 +110,7 @@ During the preprocessing, genres were analyzed to see which are the most frequen
 │   └── movies.dat
 └── src/
     └── movie_data.pkl
-  ---
+---
 
 ---
 👩‍💻 Author
