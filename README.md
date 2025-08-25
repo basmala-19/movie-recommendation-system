@@ -95,8 +95,7 @@ During the preprocessing, genres were analyzed to see which are the most frequen
 - Explore Deep Learning approaches (Autoencoders, Neural Collaborative Filtering).
 
 - Deploy as a Web Application using Flask or Streamlit.
-
- ---
+---
 ## 📂 Project Structure
 ---
 Movie-Recommendation-System/
@@ -109,9 +108,10 @@ Movie-Recommendation-System/
 │   ├── ratings.dat
 │   └── movies.dat
 ├── 📁 models/                      
-│   └── movie_data.pkl
+     └── movie_data.pkl
+ ---
 
----
+ ---
 👩‍💻 Author
 
 Developed by Basmala Ahmed Mohmaed 
