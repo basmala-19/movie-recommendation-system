@@ -50,7 +50,7 @@ During the preprocessing, genres were analyzed to see which are the most frequen
 ## 🚀 Implementation Steps
 
 ### 1. Data Loading & Preprocessing
-- Load data from `users.dat`, `ratings.dat`, `movies.dat` (separator `::`).
+- Load data from `users.dat`, `ratings.dat`, `movies.dat` (separator `;`).
 - Convert data types and handle missing values if necessary.
 - Build a **User–Item Matrix** (rows = users, columns = movies, values = ratings).
 
