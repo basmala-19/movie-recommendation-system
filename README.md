@@ -41,7 +41,7 @@ The system recommends movies to users based on **user similarity** and also incl
 ## 📊 Data Exploration — Most Common Movie Genres
 During the preprocessing, genres were analyzed to see which are the most frequent in the dataset.  
 
-![Most Common Genres](images/Most Common Genres.png)
+![Most Common Genres](images/Most-Common-Movie-Genres.png)
 
 *(The figure shows the top movie genres such as Drama, Comedy, Action, Thriller, etc.)*
 
@@ -104,13 +104,12 @@ Movie-Recommendation-System/
 ├── README.md
 ├── requirements.txt
 ├── movie_recommendation_system.ipynb
-├── data/
+├── 📁 data/  
 │   ├── users.dat
 │   ├── ratings.dat
 │   └── movies.dat
-└── src/
-    └── movie_data.pkl
----
+├── 📁 models/                      
+│   └── movie_data.pkl
 
 ---
 👩‍💻 Author
