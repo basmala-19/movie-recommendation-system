@@ -98,6 +98,7 @@ During the preprocessing, genres were analyzed to see which are the most frequen
 ---
 ## 📂 Project Structure
 ---
+```
 Movie-Recommendation-System/
 │
 ├── README.md
@@ -109,7 +110,7 @@ Movie-Recommendation-System/
 │   └── movies.dat
 ├── 📁 models/                      
      └── movie_data.pkl
- ---
+```
 
  ---
 👩‍💻 Author
