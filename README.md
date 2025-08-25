@@ -1,5 +1,11 @@
 # 🎬 Movie Recommendation System
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)](https://scikit-learn.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
+
+
 ## 📂 Dataset
 - **MovieLens 1M Dataset** from Kaggle: contains approximately **1,000,000 ratings** from around **6,000 users** on nearly **4,000 movies**.  
 - Files included: `users.dat`, `ratings.dat`, `movies.dat`.  
@@ -90,6 +96,8 @@ During the preprocessing, genres were analyzed to see which are the most frequen
 
 - Deploy as a Web Application using Flask or Streamlit.
 
+ ---
+
 ---
 ## 📂 Project Structure
 
@@ -102,6 +110,7 @@ During the preprocessing, genres were analyzed to see which are the most frequen
 │   └── movies.dat
 └── src/
     └── movie_data.pkl
+  ---
 
 ---
 👩‍💻 Author
