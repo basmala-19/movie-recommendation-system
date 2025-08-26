@@ -24,7 +24,7 @@ The system recommends movies to users based on **user similarity** and also incl
 - Building a **User-Item Matrix**
 - **User-based Collaborative Filtering**
 - **Evaluation using Precision@K**
-**Gradio Web App:** Upload a movie title and receive top recommendations instantly.
+- **Gradio Web App:** Upload a movie title and receive top recommendations instantly.
 - **Bonus 1**: Item-based Collaborative Filtering
 - **Bonus 2**: Matrix Factorization using **SVD**
 
